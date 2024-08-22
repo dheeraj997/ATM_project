@@ -1,0 +1,5 @@
+name,accnum,balance,pin
+111111,Hary Potter,100.00,1234
+121212,Mickey Mouse,150.00,112233
+131313,Tony Stark,1000000,332211
+141414,Dr. Evil,100000000,313131
